@@ -1,6 +1,7 @@
 
 
+def a():
+    print("a")
+
 if __name__ == '__main__':
-    print(1)
-    print(234)
-    print(567)
+    a()
